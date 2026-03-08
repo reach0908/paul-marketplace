@@ -1,0 +1,34 @@
+{
+  "name": "paul-marketplace",
+  "owner": {
+    "name": "Paul"
+  },
+  "metadata": {
+    "description": "Paul's custom Claude Code plugin marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "paul-os",
+      "source": {
+        "source": "github",
+        "repo": "reach0908/paul-os"
+      },
+      "description": "Harness engineering plugin for systematic product development with AI agent teams. Integrates SDD, TDD, and ontology-based knowledge management into an 8-phase development pipeline.",
+      "version": "0.4.0",
+      "author": {
+        "name": "Paul"
+      },
+      "repository": "https://github.com/reach0908/paul-os",
+      "license": "MIT",
+      "keywords": [
+        "harness-engineering",
+        "sdd",
+        "tdd",
+        "ontology",
+        "product-development",
+        "agent-orchestration"
+      ]
+    }
+  ]
+}
