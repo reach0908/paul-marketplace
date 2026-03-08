@@ -14,20 +14,23 @@
         "source": "github",
         "repo": "reach0908/paul-os"
       },
-      "description": "Harness engineering plugin for systematic product development with AI agent teams. Integrates SDD, TDD, and ontology-based knowledge management into an 8-phase development pipeline.",
-      "version": "0.4.0",
+      "description": "Harness engineering plugin for systematic product development with AI agent teams. Supports multiple tech stacks, customizable pipelines, quality benchmarking, and runtime observation (Docker + Loki + Prometheus + Grafana + agent-browser). Integrates SDD, TDD, and ontology-based knowledge management.",
+      "version": "0.6.0",
       "author": {
         "name": "Paul"
       },
       "repository": "https://github.com/reach0908/paul-os",
       "license": "MIT",
       "keywords": [
-        "harness-engineering",
-        "sdd",
-        "tdd",
-        "ontology",
-        "product-development",
-        "agent-orchestration"
+          "harness-engineering",
+          "sdd",
+          "tdd",
+          "ontology",
+          "product-development",
+          "agent-orchestration",
+          "observability",
+          "docker",
+          "runtime-observation"
       ]
     }
   ]
