@@ -40,7 +40,7 @@
         "repo": "reach0908/productivity"
       },
       "description": "KJH_ARCHIVE 통합 생산성 플러그인 — /아침·/저녁 워크플로우, 스프린트 관리(/스프린트·/스프린트-시작·/스프린트-종료), 재무·건강 에이전트, Gmail 연동, 세컨드브레인 자동화",
-      "version": "2.5.0",
+      "version": "2.6.0",
       "author": {
         "name": "Paul"
       },
