@@ -15,7 +15,7 @@
         "repo": "reach0908/paul-os"
       },
       "description": "Harness engineering plugin for systematic product development with AI agent teams. Supports multiple tech stacks, customizable pipelines (including UI/UX Design phase with Design Lead agent), quality benchmarking, and runtime observation (Docker + Loki + Prometheus + Grafana + agent-browser). Integrates SDD, TDD, and ontology-based knowledge management. Includes agent self-tuning, upstream feedback loops, design system generation, and retrospective automation.",
-      "version": "0.22.1",
+      "version": "0.22.2",
       "author": {
         "name": "Paul"
       },
