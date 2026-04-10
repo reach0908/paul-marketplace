@@ -14,8 +14,8 @@
         "source": "github",
         "repo": "reach0908/paul-os"
       },
-      "description": "Harness engineering plugin for systematic product development with AI agent teams. 15 specialized agents and 24 commands with --standalone mode, pipeline presets, autoplan decision principles, learnings system, scope lock debugging, and proactive keyword routing.",
-      "version": "0.26.0",
+      "description": "Harness engineering plugin for systematic product development with AI agent teams. 15 specialized agents and 24 commands with --standalone mode, pipeline presets, autoplan decision principles, learnings system, scope lock debugging, proactive keyword routing, and skill orchestration layer (per-agent skill playbooks with borrow/subagent/reentry modes, persona routing, workflow hijacking protection).",
+      "version": "0.27.0",
       "author": {
         "name": "Paul"
       },
