@@ -14,8 +14,8 @@
         "source": "github",
         "repo": "reach0908/paul-os"
       },
-      "description": "Harness engineering plugin for systematic product development with AI agent teams. 15 specialized agents and 24 commands with --standalone mode, pipeline presets, autoplan decision principles, learnings system, scope lock debugging, proactive keyword routing, skill orchestration layer with dynamic skill nudge router (all 15 agents declare Owned Skills + Phase Mandatory Skills, router parses persona-index.yaml at runtime with zero hardcoded branches, borrow/subagent/reentry modes, persona routing, workflow hijacking protection, informational filter gating), and quality benchmark harness (32 deterministic scenarios with golden snapshots, GitHub Actions CI, auto-generated dashboard).",
-      "version": "0.30.0",
+      "description": "Harness engineering plugin for systematic product development with AI agent teams. 15 specialized agents and 24 commands with --standalone mode, pipeline presets, autoplan decision principles, learnings system, scope lock debugging, proactive keyword routing, skill orchestration layer with dynamic skill nudge router (all 15 agents declare Owned Skills + Phase Mandatory Skills, router parses persona-index.yaml at runtime with zero hardcoded branches, borrow/subagent/reentry modes, persona routing, workflow hijacking protection, informational filter gating), quality benchmark harness (32 deterministic scenarios with golden snapshots, GitHub Actions CI, auto-generated dashboard), and Layer B agent behavior benchmarks (LLM-judge, 10 scenarios across pm/tech-lead/designer with 3-sample averaging and variance-based stability annotation).",
+      "version": "0.31.0",
       "author": {
         "name": "Paul"
       },
