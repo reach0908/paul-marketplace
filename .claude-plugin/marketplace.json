@@ -40,8 +40,8 @@
         "source": "github",
         "repo": "reach0908/productivity"
       },
-      "description": "KJH_ARCHIVE 통합 생산성 플러그인 — 4블록 데일리노트(하이라이트/타임블록/콜아웃 + 저녁 4블록), /아침·/저녁 계획→실제 로그 워크플로우, 스프린트 MOC 아카이브(/스프린트·/스프린트-시작·/스프린트-종료), 재무·세컨드브레인 에이전트, Gmail·Google Calendar 연동",
-      "version": "2.8.0",
+      "description": "KJH_ARCHIVE 통합 생산성 플러그인 — 4블록 데일리노트(하이라이트/타임블록/콜아웃 + 저녁 4블록), /아침·/저녁 계획→실제 로그, 스프린트 MOC(/스프린트·/스프린트-시작·/스프린트-종료), LLM Wiki 기반 PKM(/위키), 스크럼 마스터·라이프 코치 에이전트, Gmail·Google Calendar 연동",
+      "version": "3.0.0",
       "author": {
         "name": "Paul"
       },
@@ -50,11 +50,11 @@
           "productivity",
           "daily-workflow",
           "obsidian",
-          "finance",
-          "health",
-          "sprint-tracker",
-          "sprint-management",
-          "zettelkasten"
+          "llm-wiki",
+          "pkm",
+          "scrum-master",
+          "life-coach",
+          "sprint-management"
       ]
     }
   ]
