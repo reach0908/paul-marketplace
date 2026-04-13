@@ -40,8 +40,8 @@
         "source": "github",
         "repo": "reach0908/productivity"
       },
-      "description": "KJH_ARCHIVE 통합 생산성 플러그인 — /아침·/저녁 워크플로우, 스프린트 관리(/스프린트·/스프린트-시작·/스프린트-종료), 재무·건강 에이전트, Gmail 연동, 세컨드브레인 자동화, 루틴 기반 타임블록(출근일/재택일)",
-      "version": "2.7.0",
+      "description": "KJH_ARCHIVE 통합 생산성 플러그인 — 4블록 데일리노트(하이라이트/타임블록/콜아웃 + 저녁 4블록), /아침·/저녁 계획→실제 로그 워크플로우, 스프린트 MOC 아카이브(/스프린트·/스프린트-시작·/스프린트-종료), 재무·세컨드브레인 에이전트, Gmail·Google Calendar 연동",
+      "version": "2.8.0",
       "author": {
         "name": "Paul"
       },
