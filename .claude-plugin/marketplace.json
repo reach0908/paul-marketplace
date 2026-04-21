@@ -40,8 +40,8 @@
         "source": "github",
         "repo": "reach0908/productivity"
       },
-      "description": "의사결정 중심 생산성 플러그인 — B형 데일리노트(탑3/백본/컨텍스트/블록/인박스/회고), LLM 판단 + trust-loop 학습, 6개 스프린트 커맨드(KR measure 자동 계산), 위키 semi-auto surfacing·ingest, 분기 회고. Linear·Gmail·Google Calendar 연동.",
-      "version": "4.0.0",
+      "description": "의사결정 중심 생산성 플러그인 — B형 데일리노트(탑3/백본/컨텍스트/블록/인박스/회고), LLM 판단 + trust-loop 학습, 6개 스프린트 커맨드(KR measure 자동 계산), 위키 semi-auto surfacing·ingest, 분기 회고, 요일 기반 타임블록 루틴(v4.1). Linear·Gmail·Google Calendar 연동.",
+      "version": "4.1.0",
       "author": {
         "name": "Paul"
       },
