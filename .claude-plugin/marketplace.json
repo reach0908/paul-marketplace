@@ -40,8 +40,8 @@
         "source": "github",
         "repo": "reach0908/productivity"
       },
-      "description": "의사결정 중심 생산성 플러그인 — B형 데일리노트(탑3/백본/컨텍스트/블록/인박스/회고), LLM 판단 + trust-loop 학습, 6개 스프린트 커맨드(KR measure 자동 계산), 위키 semi-auto surfacing·ingest, 분기 회고, 요일 기반 타임블록 루틴, /아침·/저녁 완료 후 비동기 외부 리서치(researcher 에이전트, v4.2). Linear·Gmail·Google Calendar 연동.",
-      "version": "4.2.0",
+      "description": "의사결정 중심 생산성 플러그인 v5 — B형 데일리노트(탑3/백본/컨텍스트/블록/인박스/리서치/4-callout 회고), LLM 판단 + trust-loop 학습, 단계별 협의 흐름(/아침 Step 4 분리, 멀티턴 AskUserQuestion 패턴), life-coach daily 모드 회고(Gibbs 4질문 압축, personalize 신호), second-brain-curator 통합 PARA+Wiki 큐레이션(8 모드, wiki-curator 폐기·통합), 4-에이전트 병렬 실행(/저녁 Step 3c), 6개 스프린트 커맨드(KR measure 자동 계산), 분기 회고, /아침·/저녁 완료 후 비동기 외부 리서치(researcher 에이전트). Linear·Gmail·Google Calendar 연동.",
+      "version": "5.0.0",
       "author": {
         "name": "Paul"
       },
@@ -52,6 +52,9 @@
           "obsidian",
           "llm-wiki",
           "pkm",
+          "second-brain",
+          "para",
+          "decision-support",
           "scrum-master",
           "life-coach",
           "sprint-management"
