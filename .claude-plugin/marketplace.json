@@ -14,8 +14,8 @@
         "source": "github",
         "repo": "reach0908/paul-os"
       },
-      "description": "Harness engineering plugin for systematic product development with AI agent teams. 15 specialized agents (CEO, PM, PO, Tech Lead, Architect, Developer, Test Engineer, QA Engineer, Design Lead, Designer, Security Reviewer, Release Engineer, Garbage Collector, Observer, Tracer) and 24 commands with --standalone mode, pipeline presets (full/standard/quick/hotfix/prototype), autoplan decision principles, learnings system, scope lock debugging, and proactive keyword routing. v0.32.0 added 4 P0 quality gates: constitution auto-check, API coverage diff, scanner hallucination verification, investigate tiered review. v0.32.2 added Benchmark-Driven Evolution — plugin-wide Writer/Reviewer Separation Invariant (mandatory-protocol §8), Phase Routing Card for voice-input recovery, and 2 LLM-judge scenarios validating the absorbed patterns.",
-      "version": "0.32.2",
+      "description": "Harness engineering plugin for systematic AI-augmented product development. 8 core agents + 12 commands wrap a conversational SDD/TDD lifecycle with EXIT GATE verification, ontology-typed task graphs, and zero-borrow self-contained skills.",
+      "version": "0.36.0",
       "author": {
         "name": "Paul"
       },
@@ -26,12 +26,12 @@
           "sdd",
           "tdd",
           "ontology",
-          "product-development",
           "agent-orchestration",
           "observability",
-          "docker",
-          "runtime-observation",
-          "conversational-pipeline"
+          "conversational-pipeline",
+          "exit-gate",
+          "verification-contract",
+          "paul-os"
       ]
     },
     {
