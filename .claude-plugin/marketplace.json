@@ -14,8 +14,8 @@
         "source": "github",
         "repo": "reach0908/paul-os"
       },
-      "description": "Harness engineering plugin for systematic AI-augmented product development. 8 core agents + 12 commands wrap a conversational SDD/TDD lifecycle with EXIT GATE verification, ontology-typed task graphs, and zero-borrow self-contained skills.",
-      "version": "0.36.0",
+      "description": "Harness engineering plugin for systematic AI-augmented product development. 8 core agents + 13 commands wrap a conversational SDD/TDD lifecycle with EXIT GATE verification, ontology-typed task graphs, and zero-borrow self-contained skills.",
+      "version": "1.0.0",
       "author": {
         "name": "Paul"
       },
