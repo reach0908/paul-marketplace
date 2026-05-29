@@ -14,8 +14,8 @@
         "source": "github",
         "repo": "reach0908/paul-os"
       },
-      "description": "Harness engineering plugin for systematic AI-augmented product development. 8 core agents + 14 commands wrap a conversational SDD/TDD lifecycle with EXIT GATE verification, ontology-typed task graphs, and zero-borrow self-contained skills. v1.6 adds Executable Verification: a 1st-class Wave Checkpoint runs runtime-smoke (does it boot?) + visual gate (does it match the mockup?) + path/symbol validation at every wave boundary, with layer-differentiated TDD (no fake-RED on visual tasks). /paul-os:migrate upgrades stamped artifacts across version bumps.",
-      "version": "1.6.0",
+      "description": "Harness engineering plugin for systematic AI-augmented product development. 8 core agents + 14 commands wrap a conversational SDD/TDD lifecycle with EXIT GATE verification, ontology-typed task graphs, and zero-borrow self-contained skills. v1.7 adds Decision Briefing: at conversational decision points paul-os renders a self-contained HTML report (context + every decision + options/tradeoffs/recommendation) and opens it in the browser, so the user skims everything at once and answers in one pass — reading lives in HTML, answering stays robust (batched AskUserQuestion or paste-back form). Brand-neutral by default with theme injection. v1.6 added Executable Verification (Wave Checkpoint: runtime-smoke + visual gate + path/symbol). /paul-os:migrate upgrades stamped artifacts across version bumps.",
+      "version": "1.7.0",
       "author": {
         "name": "Paul"
       },
